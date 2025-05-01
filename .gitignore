@@ -5,6 +5,7 @@ __pycache__
 dist
 .mypy_cache
 .mypy_cache_test
+.env
 data
 
 # JetBrains IDE
